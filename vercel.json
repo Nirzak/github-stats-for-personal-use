@@ -1,14 +1,14 @@
 {
   "functions": {
     "api/*.js": {
-      "memory": 1024,
+      "memory": 128,
       "maxDuration": 10
     }
   },
   "redirects": [
     {
       "source": "/",
-      "destination": "https://github.com/Nirzak/github-stats-for-personal-use"
+      "destination": "https://github.com/Nirzak/github-readme-stats"
     }
   ]
 }
